@@ -66,7 +66,7 @@
     <img src="https://github.com/GDSCINHA/2022-Algorithm-Study/blob/main/이미지/2.png">
 </p>
 <div align=center>
-2. 키보드에서 `.` 입력
+2. <mark>.</mark> 을 입력하여 웹 에디터로 이동
 </div>
 <br/><br/><br/><br/><br/>
 
@@ -85,7 +85,7 @@
     <img src="https://github.com/GDSCINHA/2022-Algorithm-Study/blob/main/이미지/5.png">
 </p>
 <div align=center>
-4. 본인이 작성한 소스코드 입력
+4. 본인이 작성하여 제출한 정답 소스 코드를 복사 후 붙여넣기
 </div>
 <br/><br/><br/><br/><br/>
 
@@ -94,7 +94,7 @@
     <img src="https://github.com/GDSCINHA/2022-Algorithm-Study/blob/main/이미지/6.png">
 </p>
 <div align=center>
-5. 깃 메뉴로 이동
+5. 레포지토리에 커밋하기 위해 깃 메뉴로 이동
 </div>
 <br/><br/><br/><br/><br/>
 
@@ -123,7 +123,7 @@
     <img src="https://github.com/GDSCINHA/2022-Algorithm-Study/blob/main/이미지/9.png">
 </p>
 <div align=center>
-8. 자신이 작성한 커밋 메세지로 잘 푸시되었는지 확인
+8. 새로 고침 후 자신이 작성한 커밋 메세지로 잘 푸시되었는지 확인
 </div>
 <br/><br/><br/><br/><br/>
 
