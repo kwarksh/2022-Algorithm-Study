@@ -53,6 +53,58 @@
 
 # 제출방법
 
+<p align="center">
+    <img src="https://github.com/GDSCINHA/2022-Algorithm-Study/blob/main/1.png">
+</p>
+<div align=center>
+1. 스터디 레포지토리에 접속
+</div>
+<br/><br/>
+
+
+<p align="center">
+    <img src="https://github.com/GDSCINHA/2022-Algorithm-Study/blob/main/2.png">
+</p>
+<div align=center>
+2. 키보드에서 `.` 입력
+</div>
+<br/><br/>
+
+
+<p align="center">
+    <img src="https://github.com/GDSCINHA/2022-Algorithm-Study/blob/main/이미지/3.png">
+    <img src="https://github.com/GDSCINHA/2022-Algorithm-Study/blob/main/이미지/4.png">
+</p>
+<div align=center>
+3. 해당 주차 폴더를 선택 후 본인이 작성한 언어에 맞는 확장자 명으로 파일 생성
+</div>
+<br/><br/>
+
+
+<p align="center">
+    <img src="https://github.com/GDSCINHA/2022-Algorithm-Study/blob/main/이미지/5.png">
+</p>
+<div align=center>
+4. 본인이 작성한 소스코드 입력
+</div>
+<br/><br/>
+
+
+<p align="center">
+    <img src="https://github.com/GDSCINHA/2022-Algorithm-Study/blob/main/이미지/6.png">
+</p>
+<div align=center>
+5. 깃 메뉴로 이동
+</div>
+<br/><br/>
+
+
+<p align="center">
+    <img src="https://github.com/GDSCINHA/2022-Algorithm-Study/blob/main/이미지/7.png">
+</p>
+<div align=center>
+6. 적절한 커밋 메세지 작성 후 커밋
+</div>
 
 
 <br/><br/>
