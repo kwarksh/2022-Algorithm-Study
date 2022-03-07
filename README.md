@@ -31,25 +31,25 @@
 
 # 📝 2022-Algorithm-Study
 
-- [운영방식](#운영방식)
-- [커밋 규칙](#커밋규칙)
-- [제출방법](#제출방법)
+- [운영방식](#largebluediamond-운영방식)
+- [커밋 규칙](#largebluediamond-커밋-규칙)
+- [제출방법](#largebluediamond-제출방법)
 
 <br/><br/>
 
 
 
 
-# 🔷 운영방식
+# :large_blue_diamond: 운영방식
 
 1. 매주 모임에서 3개의 문제 선정
-2. 해당 주차에 해당하는 문제 풀이 후 [제출](#제출방법)
+2. 해당 주차에 해당하는 문제 풀이 후 [제출](#largebluediamond-제출방법)
 3. 모임에서 문제 풀이 공유
 
 <br/><br/>
 
 
-# 🔷 커밋 규칙
+# :large_blue_diamond: 커밋 규칙
 * 각자 이름이나 깃헙 닉네임으로 폴더를 만들어주세요.
 * 본인 폴더안에 소스코드를 올려주세요. 
 * 파일 이름은 커밋메시지랑 비슷하게 하시면 됩니다.
@@ -64,7 +64,7 @@
 <br/><br/>
 
 
-# 🔷 제출방법
+# :large_blue_diamond: 제출방법
 
 <p align="center">
     <img src="https://github.com/GDSCINHA/2022-Algorithm-Study/blob/main/이미지/1.png">
