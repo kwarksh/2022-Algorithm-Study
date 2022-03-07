@@ -12,7 +12,6 @@ before = 0
 
 for i in conf:
     a, b = i[0], i[1]
-
     if a >= before:
         answer += 1
         before = b
