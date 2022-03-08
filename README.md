@@ -1,4 +1,4 @@
-<pre>
+<pre align="center">
     ___    __                 _ __  __                 _____ __            __     
    /   |  / /___ _____  _____(_) /_/ /_  ____ ___     / ___// /___  ______/ /_  __
   / /| | / / __ `/ __ \/ ___/ / __/ __ \/ __ `__ \    \__ \/ __/ / / / __  / / / /
@@ -17,7 +17,7 @@
 <!-- 프로필_진척도_영역 -->
 <!----------------------->
 
-<table>
+<table align="center">
   <tr>
     <td align="center"><a href="https://github.com/Ldj-git"><img src="https://avatars.githubusercontent.com/u/68588092?v=4" width="100px;" alt=""/><br /><sub>이동준<br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0" /></sub></a><br /></td>
     <td align="center"><a href="https://github.com/kimbank"><img src="https://avatars.githubusercontent.com/u/87305109?v=4" width="100px;" alt=""/><br /><sub>김은행<br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0" /></sub></a><br /></td>
@@ -25,6 +25,8 @@
     <td align="center"><a href="https://github.com/kwarksh"><img src="https://avatars.githubusercontent.com/u/68470454?v=4" width="100px;" alt=""/><br /><sub>곽성현<br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0" /></sub></a><br /></td>
   </tr>
 </table>
+
+<br /><br />
 
 
 
